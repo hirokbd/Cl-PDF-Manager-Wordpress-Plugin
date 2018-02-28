@@ -1,0 +1,29 @@
+=== CL PDF Manager ===
+Tags: Wordpress PDF Manager plugin, create post with pdf link, create post with feature images, create post with feature images, description & PDF link, best pdf plugin, best post plugin, wp post, 2 shortcode, manage pdf
+Requires at least: 4.0
+Tested up to: 4.9.4
+
+CL PDF Manager is a PDF Manager plugin which manage your pdf as well as your post type.
+
+== Description ==
+
+<ul>
+<li>Place `[cl_pdf_manager_show]` in your page or post where you want to show post thumbnail, Title with pdf link</li>
+<li>You can use `[cl_pdf_manager_showall]` it will show thumbnail, Title & description with pdf link</li>
+</ul>
+
+CL PDF Manager is a PDF Manager plugin which manage your pdf. Its simple, easy to use, seo optimize. CL PDF Manager plugin has some extra facilities. You can use it as a shortcode. You can use 2 shortcode. 
+
+== Installation ==
+1. Upload `CL-PDF-Manager` folder to the `/wp-content/plugins/` directory
+2. Activate the plugin through the \'Plugins\' menu in WordPress
+3. All PDF Manager Post with PDF Upload.
+4. Place `[cl_pdf_manager_show]` in your page or post where you want to show thumbnail, Title with pdf link.
+5. You can use `[cl_pdf_manager_showall]` it will show thumbnail, Title & description with pdf link.
+
+== Screenshots ==
+1. Normal shortcode
+2. Limited shortcode
+
+== Changelog ==
+1.0.0 > Initial release
